@@ -1,7 +1,7 @@
 # 邹昀
 
 - Javascript Software Engineer
-- Nanjing University of Post and Telecommunications 
+- Nanjing University of Post and Telecommunications(南京邮电大学)
     - Computer Science and Technology
     - 2014 ~ 2018
 - 15850569576
@@ -25,7 +25,7 @@
 
 Front-end Engineer
 
-- Wokring for big data platform and other desktop web applications from the establishment of the big data department
+- Wokring for big data platform and other desktop web applications since the establishment of the big data department
 - Webviews inside 运满满 Apps
 - Build large scale platform systems including multipe web applications based on Axure prototype using Vue and singleSPA
 - Gradually upgrade old projects to new projects without affecting the original functions by comunication between old/new components/apps using BroadcastChannel API
