@@ -29,8 +29,8 @@ Front-end Engineer
 - Webviews inside 运满满 Apps
 - Build large scale platform systems including multipe web applications based on Axure prototype using Vue and singleSPA
 - Gradually upgrade old projects to new projects without affecting the original functions by comunication between old/new components/apps using BroadcastChannel API
-- Component interaction, data display and performance optimization in multi-dimensional associated forms
-- Suggest adjusting the workflow and eliminate anti-patterns to improve efficiency
+- Multi-dimensional associated forms & component interaction, data display and performance optimization
+- Suggest adjusting workflow and eliminate anti-patterns to improve efficiency
 
 ### 北京辰信领创信息技术有限公司(启明星辰) 2017.02-2018.05
 
