@@ -62,9 +62,15 @@ Javascript Software Engineer Intern
      - Time spent on the same job reduced by 10%
    - Build Gitlab CI (Jest, ESLint, Nightwatch) and upgrade GoCD
 
-## Nanjing University of Post and Telecommunications 2014 ~ 2017
+### Nanjing University of Post and Telecommunications 2014 ~ 2017
 
 Student
 
 - Use AngularJS and Node.js to develop a blog system for the Computer and Software Academy Science Association
 - Use php CodeIgniter to develop WeChat Student Information query system for iService
+
+## Hobbies and Interests
+
+- Railway
+- Early Modern History
+- Military Jet Avionics
