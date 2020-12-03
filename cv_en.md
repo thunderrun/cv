@@ -4,14 +4,14 @@
 - Nanjing University of Post and Telecommunications(南京邮电大学)
     - Computer Science and Technology
     - 2014 ~ 2018
-- 15850569576
+- 158****9576
 - thunderrun2035@gmail.com
 - Github: https://github.com/thunderrun
 - npm: https://www.npmjs.com/~rehnskiold
 
 ## Personal Strengths
 
-- More than 3 years of experience developing data visualization  and other large scale platform/console style web applications front-end using vue.js
+- More than 3 years of experience developing data visualization and other large scale platform/console style web applications front-end using vue.js
 - Proficient in English reading and writing
     - Able to quickly understand and use new programming languages, frameworks, libraries and other tools based on documents
 - Solid Software Engineering knowledge and application ability
@@ -26,6 +26,7 @@
 Front-end Engineer
 
 - Wokring for big data platform and other desktop web applications since the establishment of the big data department
+  - Products major function: calculation, usage, analysis, visualization and management of massive amount of data
 - Webviews inside 运满满 Apps
 - Build large scale platform systems including multipe web applications based on Axure prototype using Vue and singleSPA
 - Gradually upgrade old projects to new projects without affecting the original functions by comunication between old/new components/apps using BroadcastChannel API
