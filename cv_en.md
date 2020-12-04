@@ -2,11 +2,11 @@
 
 - Javascript Software Engineer
 - Nanjing University of Post and Telecommunications(南京邮电大学)
-    - Computer Science and Technology
-    - 2014 ~ 2018
+    - Computer Science and Technology, 2014 ~ 2018
 - 158****9576
 - thunderrun2035@gmail.com
 - Github: https://github.com/thunderrun
+- Medium: https://thunderrun.medium.com/
 - npm: https://www.npmjs.com/~rehnskiold
 
 ## Personal Strengths
