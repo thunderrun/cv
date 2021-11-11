@@ -11,13 +11,14 @@
 
 ## Personal Strengths
 
-- More than 3 years of experience developing data visualization and other large scale platform/console style web applications front-end using vue.js
-- Proficient in English reading and writing
+- More than 4 years of experience developing data visualization and other large scale platform/console style web applications front-end using vue.js
+- Proficient in English
     - Able to quickly understand and use new programming languages, frameworks, libraries and other tools based on documents
 - Solid Software Engineering knowledge and application ability
 - Other skills
     - Excel
     - Basic knowledge of Economics, Accounting & Secutiries
+    - Real estate, bank & insurance corporation financial analysis
 
 ## Working Experience
 
@@ -29,8 +30,10 @@ Front-end Engineer
   - Products major function: calculation, usage, analysis, visualization and management of massive amount of data
 - Webviews inside 运满满 Apps
 - Build large scale platform systems including multipe web applications based on Axure prototype using Vue and singleSPA
-- Gradually upgrade old projects to new projects without affecting the original functions by comunication between old/new components/apps using BroadcastChannel API
-- Multi-dimensional associated forms & component interaction, data display and performance optimization
+- Gradually upgrade old projects to new projects without affecting the original functions
+  - Ccomunication between old/new components/apps using BroadcastChannel API
+  - Inject styles into iframe to show specific part of old application in new app
+- Multi-dimensional associated forms, complex component interaction, data & tree display and performance optimization
 - Suggest adjusting workflow and eliminate anti-patterns to improve efficiency
 
 ### 北京辰信领创信息技术有限公司(启明星辰) 2017.02-2018.05
@@ -72,6 +75,4 @@ Student
 
 ## Hobbies and Interests
 
-- Railway
 - Early Modern History
-- Military Jet Avionics
