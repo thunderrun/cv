@@ -22,7 +22,7 @@
 
 ## Working Experience
 
-### 江苏满运软件科技有限公司(满帮集团/运满满) 2018.7 ~ now
+### 江苏满运软件科技有限公司(满帮集团/YMM) 2018.7 ~ now
 
 Front-end Engineer
 
