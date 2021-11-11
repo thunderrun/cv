@@ -22,7 +22,7 @@
 
 ## Working Experience
 
-### 江苏满运软件科技有限公司(满帮集团/YMM) 2018.7 ~ now
+### 江苏满运软件科技有限公司(满帮集团/NYSE:YMM) 2018.7 ~ now
 
 Front-end Engineer
 
@@ -36,7 +36,7 @@ Front-end Engineer
 - Multi-dimensional associated forms, complex component interaction, data & tree display and performance optimization
 - Suggest adjusting workflow and eliminate anti-patterns to improve efficiency
 
-### 北京辰信领创信息技术有限公司(启明星辰) 2017.02-2018.05
+### 北京辰信领创信息技术有限公司(启明星辰/SZ:002439) 2017.02-2018.05
 
 Javascript Software Engineer Intern
 
