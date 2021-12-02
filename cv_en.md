@@ -1,4 +1,4 @@
-# 邹昀
+# Zou Yun
 
 - Javascript Software Engineer
 - Nanjing University of Post and Telecommunications
@@ -45,7 +45,7 @@ Front-end Engineer
 
 Javascript Software Engineer Intern
 
-- 景云网络反病毒中控平台
+- Jingyun Network Anti-virus Central Control Platform
   - Vue.js / AngularJs / Angular 2 Beta
   - Node.js（Sails.js）
   - Elasticsearch
