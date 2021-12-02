@@ -1,7 +1,7 @@
 # 邹昀
 
 - Javascript Software Engineer
-- Nanjing University of Post and Telecommunications(南京邮电大学)
+- Nanjing University of Post and Telecommunications
     - Computer Science and Technology, 2014 ~ 2018
 - 158****9576
 - thunderrun2035@gmail.com
@@ -22,21 +22,26 @@
 
 ## Working Experience
 
-### 江苏满运软件科技有限公司(满帮集团/NYSE:YMM) 2018.7 ~ now
+### Full Truck Alliance Co Ltd(NYSE:YMM) 2018.7 ~ now
 
 Front-end Engineer
 
 - Wokring for big data platform and other desktop web applications since the establishment of the big data department
   - Products major function: calculation, usage, analysis, visualization and management of massive amount of data
-- Webviews inside 运满满 Apps
+- Webviews inside YMM Apps
 - Build large scale platform systems including multipe web applications based on Axure prototype using Vue and singleSPA
 - Gradually upgrade old projects to new projects without affecting the original functions
   - Ccomunication between old/new components/apps using BroadcastChannel API
   - Inject styles into iframe to show specific part of old application in new app
-- Multi-dimensional associated forms, complex component interaction, data & tree display and performance optimization
+- Solutions to complex problems
+   - Multi-dimensional associated forms
+   - Complex component interaction
+   - Data & tree display, function implementation and performance optimization
+   - Apps Cache Control
+   - Content Marker/Highlighter
 - Suggest adjusting workflow and eliminate anti-patterns to improve efficiency
 
-### 北京辰信领创信息技术有限公司(启明星辰/SZ:002439) 2017.02-2018.05
+### VENUSTECH GROUP IN(SZ:002439) 2017.02-2018.05
 
 Javascript Software Engineer Intern
 
