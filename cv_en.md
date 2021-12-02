@@ -33,6 +33,7 @@ Front-end Engineer
 - Gradually upgrade old projects to new projects without affecting the original functions
   - Ccomunication between old/new components/apps using BroadcastChannel API
   - Inject styles into iframe to show specific part of old application in new app
+  - Upgrade developing tools from cooking-cli/custom webpack to Nuxt/Vue Cli
 - Solutions to complex problems
    - Multi-dimensional associated forms
    - Complex component interaction
