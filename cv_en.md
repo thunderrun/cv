@@ -15,10 +15,6 @@
 - Proficient in English
     - Able to quickly understand and use new programming languages, frameworks, libraries and other tools based on documents
 - Solid Software Engineering knowledge and application ability
-- Other skills
-    - Excel
-    - Basic knowledge of Economics, Accounting & Secutiries
-    - Real estate, bank & insurance corporation financial analysis
 
 ## Working Experience
 
@@ -27,11 +23,11 @@
 Front-end Engineer
 
 - Wokring for big data platform and other desktop web applications since the establishment of the big data department
-  - Products major function: calculation, usage, analysis, visualization and management of massive amount of data
+  - Products major function: calculation, usage(ETL, task warning, event tracking), analysis, visualization and management of massive amount of data
 - Webviews inside YMM Apps
 - Build large scale platform systems including multipe web applications based on Axure prototype using Vue and singleSPA
 - Gradually upgrade old projects to new projects without affecting the original functions
-  - Ccomunication between old/new components/apps using BroadcastChannel API
+  - Comunication between old/new components/apps using BroadcastChannel API
   - Inject styles into iframe to show specific part of old application in new app
   - Upgrade developing tools from cooking-cli/custom webpack to Nuxt/Vue Cli
 - Solutions to complex problems
@@ -79,6 +75,11 @@ Student
 - Use AngularJS and Node.js to develop a blog system for the Computer and Software Academy Science Association
 - Use php CodeIgniter to develop WeChat Student Information query system for iService
 
-## Hobbies and Interests
+## Other skills and Hobbies
 
-- Early Modern History
+- Other skills
+  - Excel
+  - Basic knowledge of Economics, Accounting & Secutiries
+    - Real estate, bank & insurance corporation financial analysis
+- Hobbies
+  - Early Modern History
