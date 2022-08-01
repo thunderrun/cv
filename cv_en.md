@@ -6,6 +6,7 @@
 - 158****9576
 - thunderrun2035@gmail.com
 - Github: https://github.com/thunderrun
+- Gist: https://gist.github.com/thunderrun
 - Medium: https://thunderrun.medium.com/
 - npm: https://www.npmjs.com/~rehnskiold
 
@@ -18,7 +19,7 @@
 
 ## Working Experience
 
-### Full Truck Alliance Co Ltd(NYSE:YMM) 2018.7 ~ now
+### Full Truck Alliance Co Ltd(NYSE:YMM) 2018.7 ~ 2022.8
 
 Front-end Engineer
 
@@ -36,6 +37,7 @@ Front-end Engineer
    - Data & tree display, function implementation and performance optimization
    - Apps Cache Control
    - Content Marker/Highlighter
+   - Dynamic Grayscale Release
 - Suggest adjusting workflow and eliminate anti-patterns to improve efficiency
 
 ### VENUSTECH GROUP IN(SZ:002439) 2017.02-2018.05
@@ -83,3 +85,4 @@ Student
     - Real estate, bank & insurance corporation financial analysis
 - Hobbies
   - Early Modern History
+  - Basic Japanese
