@@ -12,7 +12,7 @@
 
 ## Personal Strengths
 
-- More than 4 years of experience developing data visualization and other large scale platform/console style web applications front-end using vue.js
+- More than 5 years of experience developing data visualization and other large scale platform/console style web applications front-end using vue.js
 - Proficient in English
     - Able to quickly understand and use new programming languages, frameworks, libraries and other tools based on documents
 - Solid Software Engineering knowledge and application ability
