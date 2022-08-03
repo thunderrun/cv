@@ -23,7 +23,7 @@
 
 Front-end Engineer
 
-- Wokring for big data platform and other desktop web applications since the establishment of the big data department
+- Working for big data platform and other desktop web applications since the establishment of the big data department
   - Products major function: calculation, usage(ETL, task warning, event tracking), analysis, visualization and management of massive amount of data
 - Webviews inside YMM Apps
 - Build large scale platform systems including multipe web applications based on Axure prototype using Vue and singleSPA
