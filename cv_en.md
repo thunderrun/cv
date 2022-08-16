@@ -26,9 +26,9 @@ Front-end Engineer
 - Working for big data platform and other desktop web applications since the establishment of the big data department
   - Products major function: calculation, usage(ETL, task warning, event tracking), analysis, visualization and management of massive amount of data
 - Webviews inside YMM Apps
-- Build large scale platform systems including multipe web applications based on Axure prototype using Vue and singleSPA
+- Build large scale platform systems including multiple web applications based on Axure prototype using Vue and singleSPA
 - Gradually upgrade old projects to new projects without affecting the original functions
-  - Comunication between old/new components/apps using BroadcastChannel API
+  - Communication between old/new components/apps using BroadcastChannel API
   - Inject styles into iframe to show specific part of old application in new app
   - Upgrade developing tools from cooking-cli/custom webpack to Nuxt/Vue Cli
 - Solutions to complex problems
@@ -81,7 +81,7 @@ Student
 
 - Other skills
   - Excel
-  - Basic knowledge of Economics, Accounting & Secutiries
+  - Basic knowledge of Economics, Accounting & Securities
     - Real estate, bank & insurance corporation financial analysis
 - Hobbies
   - Early Modern History
