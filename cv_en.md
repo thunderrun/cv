@@ -70,7 +70,7 @@ Javascript Software Engineer Intern
      - Time spent on the same job reduced by 10%
    - Build Gitlab CI (Jest, ESLint, Nightwatch) and upgrade GoCD
 
-### Nanjing University of Post and Telecommunications 2014 ~ 2017
+### Nanjing University of Post and Telecommunications
 
 Student
 
