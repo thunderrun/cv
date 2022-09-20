@@ -84,5 +84,8 @@ Student
   - Basic knowledge of Economics, Accounting & Securities
     - Real estate, bank & insurance corporation financial analysis
 - Hobbies
-  - Early Modern History
+  - Game Modding & Video making
+    - https://steamcommunity.com/profiles/76561198255636972/myworkshopfiles/
+    - https://www.youtube.com/channel/UCv7hYaVxxh_APHaCTGa5mgA/videos
+    - https://space.bilibili.com/650407405/video    
   - Basic Japanese
